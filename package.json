@@ -1,0 +1,41 @@
+{
+  "name": "encryptor-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "end-to-end encryption",
+    "secure messaging",
+    "data encryption",
+    "AES encryption",
+    "RSA encryption",
+    "message encryption",
+    "crypto-js",
+    "node-rsa",
+    "secure communication",
+    "encryptor",
+    "decryption",
+    "asymmetric encryption",
+    "symmetric encryption",
+    "key management",
+    "privacy",
+    "confidentiality",
+    "secure chat",
+    "encryption library",
+    "security",
+    "cryptography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ .git"
+  },
+  "author": "Rahul karmakar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "node-rsa": "^1.1.1"
+  }
+}
