@@ -114,4 +114,5 @@ Decrypts a message that was securely encrypted using sendSecureMessage.
 
 
 ### Acknowledgments
-[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-000?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/jsonwebtoken)
+[![crypto-js](https://img.shields.io/badge/crypto--js-000?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/crypto-js)
+[![node-rsa](https://img.shields.io/badge/node--rsa-000?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/node-rsa)
